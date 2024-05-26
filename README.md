@@ -1,4 +1,4 @@
-Matteo Roccia			
+Participants au projet : Matteo Roccia			
 Gabriel Zahramane
 Francisco Tornos Lloret 
 MI4
