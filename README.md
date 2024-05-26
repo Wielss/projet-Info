@@ -35,6 +35,11 @@ repertoire.h : contient le prototype de chaque fonction
 main.c : contient la fonction main qui lance le programme principal
 
 # Utilisation:
+Avant d'utiliser le programme il est important de creer un dossier nommé "donnees" a l'aide de la commande : 
+```bash
+mkdir donnees
+```
+
 Compiler le programme :
 ```bash
 make
