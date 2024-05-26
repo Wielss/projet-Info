@@ -5,7 +5,7 @@ MI4
 					
 Ce projet vise à développer une application de gestion pour permettre aux entraîneurs de suivre les performances des athlètes en vue des JO. Les performances des athlètes sont stockées dans des fichiers et peuvent être mises à jour, consultées et analysées pour produire des statistiques.
 
-# Fonctionnalités:
+# Fonctionnalités :
 Gestion des épreuves : 
 100m, 400m, 5000m, marathon, relais 4x400m.
 
@@ -25,7 +25,12 @@ Progression des athlètes entre deux dates.
 
 Améliorations possibles : 
 Calcul de la régression linéaire pour l'évolution des performances, tri des historiques par date ou nom.
-Github
+
+# Modules du programme :
+
+repertoire.c : contient le corps de chque fonction
+repertoire.h : contient le prototype de chaque fonction
+main.c : contient la fonction main qui lance le programme principal
 
 # Utilisation:
 Compiler le programme :
