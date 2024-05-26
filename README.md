@@ -29,7 +29,9 @@ Calcul de la régression linéaire pour l'évolution des performances, tri des h
 # Modules du programme :
 
 repertoire.c : contient le corps de chque fonction
+
 repertoire.h : contient le prototype de chaque fonction
+
 main.c : contient la fonction main qui lance le programme principal
 
 # Utilisation:
