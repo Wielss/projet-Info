@@ -33,6 +33,11 @@ Compiler le programme :
 make
 ```
 
+Executer le programme :
+```bash
+./main
+```
+
 # RAPPORT DE PROJET :
 
 Nous avons décidé de choisir le projet CER-J-O car c’était le plus réalisable parmi ceux proposés, en raison de notre affinité avec les fichiers. Pour communiquer, nous avons créé un groupe sur Discord et sur Snapchat.
